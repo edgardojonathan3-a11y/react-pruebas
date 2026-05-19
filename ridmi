@@ -1,0 +1,31 @@
+# 🚀 Proyecto Cambios - Aprendiendo React
+
+Este es un proyecto de práctica para aprender React.js, incluyendo componentes, routing, y estilos modernos.
+
+## 📋 Requisitos Previos
+
+Antes de comenzar, asegúrate de tener instalado:
+
+- **Node.js** (versión 14 o superior)
+  - Descargar desde: [https://nodejs.org/](https://nodejs.org/)
+- **npm** (viene con Node.js) o **yarn**
+- **Git** (para clonar el repositorio)
+
+Para verificar las versiones instaladas:
+```bash
+node --version
+npm --version
+git --version
+
+
+# Crear proyecto de react desde 0
+npx create-react-app mi-proyecto
+
+# Entrar al proyecto
+cd mi-proyecto
+
+# Instalar React Router DOM
+npm install react-router-dom
+
+# Iniciar el servidor
+npm start
